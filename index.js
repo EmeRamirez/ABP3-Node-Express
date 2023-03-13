@@ -23,11 +23,15 @@ app.listen(3000)
 
 let htmlRend = "";
 let paises = "";
-let banderas = ["https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Angola.svg",
-"https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Estados-Unidos.svg",
-"https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Mexico.svg",
-"https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Brasil.svg",
-"https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Espan%CC%83a.svg","https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Alemania.svg","https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Australia.svg","https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Japon.svg"]
+let banderas = [
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Angola.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Estados-Unidos.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Mexico.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Brasil.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Espan%CC%83a.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Alemania.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Australia.svg",
+        "https://proyectoviajero.com/wp-content/uploads/2021/03/Bandera-de-Japon.svg"]
 
 //Se importa el módulo FileSystem(fs) para llevar a cabo la lectura del archivo JSON ./paises.json 
 import fs from "fs";
