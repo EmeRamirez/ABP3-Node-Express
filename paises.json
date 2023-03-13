@@ -1,0 +1,42 @@
+{
+    "localidad 1": {
+     "Continente": "África",
+     "Pais": "Angola",
+     "Capital": "Luanda"
+    },
+    "localidad 2": {
+     "Continente": "América del Norte",
+     "Pais": "Estados Unidos",
+     "Capital": "Washington DC"
+    },
+    "localidad 3": {
+     "Continente": "América Central",
+     "Pais": "México",
+     "Capital": "Ciudad de México"
+    },
+    "localidad 4": {
+     "Continente": "América del Sur",
+     "Pais": "Brasil",
+     "Capital": "Brasilia"
+    },
+    "localidad 5": {
+     "Continente": "Europa",
+     "Pais": "España",
+     "Capital": "Madrid"
+    },
+    "localidad 6": {
+     "Continente": "Europa",
+     "Pais": "Alemania",
+     "Capital": "Berlín"
+    },
+    "localidad 7": {
+     "Continente": "Oceanía",
+     "Pais": "Australia",
+     "Capital": "Camberra"
+    },
+     "localidad 8": {
+    "Continente": "Asia",
+     "Pais": "Japón",
+     "Capital": "Tokio"
+    }
+} 
